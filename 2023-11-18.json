@@ -1,0 +1,26 @@
+{
+  "name": "David Jacobs",
+  "age": 22,
+  "address": {
+    "street": "Cofna Glen",
+    "city": "Guffavci",
+    "state": "ND",
+    "zip": "63558"
+  },
+  "contact": {
+    "phone": "(765) 460-7864",
+    "servicePhone": "800842647"
+  },
+  "birthday": "1981-05-28T02:30:02.413Z",
+  "ip": "136.52.249.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Egurauz nu seb elpadwip hipfikci visifef giwehuk olu egi kemvijug wijojda ezfim sonu avnu. Da ajumih fap pogugafe ka bag hukugecib amo kejgeza irojiv zarcuuj fehep ceculu. Oj lohucuju nu dah cigubo in cive sahorvam izhopmu ejaive benin jozuvlow. Ofawohhoh vendiv ureovjuh bih one gadgav okeda ojujeodo cusudac vifageg ma jam zen. Nicomka pihimwug ehgu hi vo tofdik urpi alahe fad nuwbow gerav fuf turjete.",
+    "bio": "Habuv okhu uk sufmuv kurat aza ded lezaj denudok hojuvmup avu huzhut. Ne tov uffa su bok ceda al bifiofe jikludec sev agipu hetuoz. Gojin haj balbif po bu zufco muvar dif to lepjow lideeje niobapo zu ruk jefbizcu vibke wa zaz. Te musduba itada uzu dilji wo ca por hiez uvofisu wofmuvo ugo mavwalu va wo ma jib eci."
+  },
+  "apiKey": "e1b16c36e201df0ec519d96e95c81921ef166c6d937257e6ce9742670040a59a",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
