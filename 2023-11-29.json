@@ -1,0 +1,26 @@
+{
+  "name": "Albert Day",
+  "age": 23,
+  "address": {
+    "street": "Bomure Place",
+    "city": "Patibaj",
+    "state": "WA",
+    "zip": "30817"
+  },
+  "contact": {
+    "phone": "(855) 508-6166",
+    "servicePhone": "800826838"
+  },
+  "birthday": "1964-05-24T17:13:00.376Z",
+  "ip": "163.171.58.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Asvizum eki gac ca ijouf ba zaisez vi di he fibfupti gafe. Pe moszojfew aked iltet wacoto pighe neek wip ri ralwezo tuvef fegke. Pak vuve vasto mivovwuj lufehjoz supufanok soguhus nofetofi fuh dihado bedga vo te jigvohtur omteiza.",
+    "bio": "Savso dulfic huw buc tutso ru ginekoni ditvuz nezikpim jak be ped ifa wazpuh zuwu. Uhugid kitimja wo bamaoh uka lobehazi em obsi sonoruma ummig ennishep fa. Guletiv ud to wumumofu icasavi fuzar tico kaenucu tunebso ijwiul zivic enzi pi kip tosus sih kimeru. Um kabote ibha ku hohow cutisi awohilaz pep wagiw mibo ni viuz eruome. Lepdusvu pe obeziefo cofo fug kaficbip ni kofjig lehul wokpaoc ejsew cuwodemof taw vew buhe boj vularod. Egages usa bepnartu galiz konze acirezha ef isedof cibhicop daggudro ale wutlej pacbebec vikcipid fokpet kihar keve iceevo. Jahef pa sep toneghop icfu me kamasedi gukvinha fu sesit jagu zat kiuluma."
+  },
+  "apiKey": "99ecd8277b91aae9814c159144c9998157cd183c3a19361f15c79a90a8671d31",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
