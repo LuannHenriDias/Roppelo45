@@ -1,0 +1,26 @@
+{
+  "name": "Daisy Luna",
+  "age": 33,
+  "address": {
+    "street": "Vucnew Road",
+    "city": "Cufate",
+    "state": "NJ",
+    "zip": "90785"
+  },
+  "contact": {
+    "phone": "(632) 759-3500",
+    "servicePhone": "800547922"
+  },
+  "birthday": "1963-05-26T19:12:17.228Z",
+  "ip": "175.255.207.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Muz lane im ub dovsuplu buujled oj one mep ani kapubav ukwe. Viged odniup hir dubfiset va wuba fu ti iwsodpah ahwod bugnetsi fuvurwud fojvegim ku gasad mopuv za ponhaso. Pugejani edutu radid sew jebool ogoco nikja eh vevlif fo tergi zekanas. Wovsoogi azi vosuri te dum aki igiibu agto fidcefke acgo pegobu kaf buw gagbi.",
+    "bio": "Bi tun us pavci eshob jidok sifpo uku mib azacot wewas lirodfaj rijsavoj udujo vo jobegeli pic. Cucro muh sizuog ahuisoges covenli behes ham tomo gitaj tediifi muajoow ofuvulun nagoula adewi vu ohfa hes. Rosogit jomooco gonazoc si sabopil kuali ke ma teh cuz keuzu fu."
+  },
+  "apiKey": "933e9d9de86d86ca4a884793f63bfdd5db4524616c7cbcf08b20426009389a79",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
