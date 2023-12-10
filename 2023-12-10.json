@@ -1,0 +1,26 @@
+{
+  "name": "Clayton McKenzie",
+  "age": 31,
+  "address": {
+    "street": "Jiaf Path",
+    "city": "Kitavesi",
+    "state": "KY",
+    "zip": "93399"
+  },
+  "contact": {
+    "phone": "(503) 890-6606",
+    "servicePhone": "800353778"
+  },
+  "birthday": "1987-02-24T00:31:26.881Z",
+  "ip": "150.102.210.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Ji tiaraven eba jesrev cohvozhiw it raciga cufajzu mujec afawe cevwe iparetzon. Nuiw razo ezebam jijo bo nah ugecucoca guanuva ik hajketi mobpehge tej koih laninaj. Lodan mo tero tujrodzof gip uc reraf vi ze mam ritruwav rahvi. Pedaffas sobuaz ci mepaja omanu megil gupiedi baomusel golog icnahar uwiom uv.",
+    "bio": "Lim epidzek sim ed riw itu af salbivwi tojhitrir maciwe gaerogo tu meb liznovju ocigidu. In wim bot se wez le is ari ru fok kukjij lo. Ho ruregi lipreek balcudoga karruzso taw penraf bifoz iha mob herjutze jujziku."
+  },
+  "apiKey": "7b8586c07989bc7cbd0e29d9e64e28c12e4f8b9c7d281aceb3572ccac7af0f7a",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
