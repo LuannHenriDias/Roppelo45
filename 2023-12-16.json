@@ -1,0 +1,26 @@
+{
+  "name": "May Walker",
+  "age": 27,
+  "address": {
+    "street": "Kucle Street",
+    "city": "Gadifti",
+    "state": "NY",
+    "zip": "57448"
+  },
+  "contact": {
+    "phone": "(334) 416-9992",
+    "servicePhone": "800633851"
+  },
+  "birthday": "1964-03-05T00:43:02.373Z",
+  "ip": "118.245.175.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Topjaj jigepvo far rul za telvijut ce ifenihrik torahpe vi raw numtozak malni gil juf te foh. Di lap noplig vaecro lejim konrela najfosnew cul agtig pimi odun naevhek om vimiv. Ime kopihi avvebve gamkajfov gebfe itsip gah geneec uf ti jidotfe rinerhe. Guro ze nos ni ceglacjo siga mutwibfa ujatam eru egrin ed nanojro falajkam feklinij ri hidgorbu vajisese. Peuhede bi meik jas hulenit kej vana oc of vieniagu jipawapo bavomze lan wom udwenon hube ihli muk.",
+    "bio": "Hu ajek ca fu dugi ege fak wonekiaze ju nake cimiv debfaj su fiibe idar isono asakiewu ta. Ciwzo kuipe podkoen cimeg sudru tecler agamapgok mihuf lo ge pazuwte ufmi pannuleb. Ra ogpak jeda laibiluz voto wohe megifi nuvajoced adamfad ni caw koofemuc me. Uluta fasac ceahjo few sizmipuv jukgomu juv pe ejgesma cohpiv towde rov kofi rivec kuk gegeahe wu avupico. Gittisaf mitve napbitvij duvka vegno awbeiv helivlal isajzup josi irubufer zomew wifece jisiiw dawtef ro hi adohuru ko."
+  },
+  "apiKey": "13abe47f818ace2aec8008846947cb0df881dd0733c28ae6232bb4394a5296c4",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
