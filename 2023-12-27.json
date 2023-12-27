@@ -1,0 +1,26 @@
+{
+  "name": "Helen Patrick",
+  "age": 60,
+  "address": {
+    "street": "Ituwe Ridge",
+    "city": "Uligevgo",
+    "state": "KY",
+    "zip": "47424"
+  },
+  "contact": {
+    "phone": "(206) 593-2384",
+    "servicePhone": "800657312"
+  },
+  "birthday": "1966-01-14T16:07:31.272Z",
+  "ip": "6.7.139.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Doevo jok hoz farjapig gi sarbafoku en ikagorci juvuhod zo jom ginlislud balfigwis gu kozat buk. Ac suheg givofe liwegi iraro lekdep wipicu modges obrur jocagu oginusi izapo za ha pisi naajev razliksi. Ceczev tem jillosug okuwdo akahigi vu age uluv wazu zescat pu voanu kuumruz sez rawuc lej tiaja hugu. Ahapapav tijpumve meac palut co rafouj kemejseb huk ibavower fe go jas mepi beopti pumok kaj.",
+    "bio": "Nigmeteh ipimupese ci fiw da uc gornicpi sed kudpukbu parkerhu hihiris viir. Ej gip lozukoso enmew riwi berapdak cafemjo lifon ewukeb amevow palwemum maucela havu. Es wirbepi cof ojuvu un anas fonilpo oti upo vuw nagvi ep."
+  },
+  "apiKey": "93b17c94717939ca90097e7869a0c4d554ff6a61242bf164687343941ec06865",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
