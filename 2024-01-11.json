@@ -1,0 +1,26 @@
+{
+  "name": "Duane Scott",
+  "age": 27,
+  "address": {
+    "street": "Rapgop Highway",
+    "city": "Pumito",
+    "state": "MT",
+    "zip": "49117"
+  },
+  "contact": {
+    "phone": "(765) 924-4573",
+    "servicePhone": "800661117"
+  },
+  "birthday": "1993-07-21T01:10:38.717Z",
+  "ip": "40.231.231.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulkosar hurba kocildec rekoece iv kuk zo ohuhi ebo cukotgo fonvoh wipondo jerdopaw athize wedadze barife fuwcegal. Ucimur ze ub cazluldem pauglor so teju novro husoc giduif utonighac abulo noredu vaz ba cazob waz. Fezihkis mosbena va cebew abdob lo epvewfan woap jibdugge jozi vac lectu viku gowvuru fohjen bude po tostuduk.",
+    "bio": "Gejvafel takpoz cevnew pebza ujujit libu ud viribbap okiodo je umipo tibju hegvu jijtu. Adtupse gaujo efo wagallug ujaho fa mafcikhu ezoz wu acdil pohu reurba nujag voz fub tad imu. Bubusoel recehsu neg cogwalol dege nagitoh bav ha uvmiger bothi vuovib daafeiv pedobejo."
+  },
+  "apiKey": "1db11b33f9304749ffce7432d07624659eb88c1549854235007e5e62374d4f8a",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
