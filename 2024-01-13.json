@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Terry",
+  "age": 44,
+  "address": {
+    "street": "Take Manor",
+    "city": "Cibgosse",
+    "state": "IA",
+    "zip": "71118"
+  },
+  "contact": {
+    "phone": "(552) 752-9894",
+    "servicePhone": "800278879"
+  },
+  "birthday": "1998-02-24T15:54:45.934Z",
+  "ip": "49.217.241.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce ma ejin api fo zosba umhabem zav kosmul sov wivis zi naigfo jepunwi wilekjed. Ihsi abo rujgi munfeb zu uf so nipsijag vidbi zumihveg bi numevej ezokov agoeka hoppoc wejvu. Hug akeg icsicleg mirpo janatug lascatep kolawi mujaben nureiz kodmab give jafib sargalus. Iki gifzizol gehgonfo noowbo fodvi owigo buli gi dok vin wugigvo zoimlul ra awe loc. Gohedut vitbuvip wosa jiif fofpob ibine ki gepeg woggop ak vuj wuutem. Ivjek puguv vab ce pil lejbagub bisegceh ifgosko jo oh poruh lovzo ro hejigo rapguku cipete iriluz. Zufin kupugi cu ebohu vewej suhavuje rojipu belazumi go apenoc lekveh mid deto.",
+    "bio": "Zin koci aw ejuwoj uhici er don soemowo ogvasnu hiji gamo ruheh kihpud napguji jofjinwut. Cenedo ra om sakisew le wudu he hausbo zokwugiku no rasohihe eziaddon ol. Vudulaluc du bogisegir nuge pi berap cuvwen jifsehde dicija agahoc itutmi nuwma cuveztu."
+  },
+  "apiKey": "da98cba9e1d0d8683c7888074fdf3f4aa8209d6a050cc7eda9e52b172cc28e0a",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
