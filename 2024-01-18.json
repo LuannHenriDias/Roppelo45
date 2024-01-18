@@ -1,0 +1,26 @@
+{
+  "name": "Martha Bush",
+  "age": 50,
+  "address": {
+    "street": "Sertoh Point",
+    "city": "Samitiidu",
+    "state": "DE",
+    "zip": "33732"
+  },
+  "contact": {
+    "phone": "(338) 251-7175",
+    "servicePhone": "800399255"
+  },
+  "birthday": "2001-02-13T22:12:40.525Z",
+  "ip": "83.33.248.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Giemmud li ejhugso neebi no tak duuhha gepuf tanpubju comib zebob suhbeb doviga kencem. Genilepiz ge eji nisif kug eco weadiop edoam sic luscewig fubguj epfo sup. Vugdanu jevepe fo oj ogono litgelor awpow bawcepsit fimahijef weovoifu ujih ovhir wa pe noz ehi zucha zez.",
+    "bio": "Nevib ekud esiza wezvomjel baloriled fej dalbo gaf nu sugpegguf vu meuda howriziz jib al. Orsaw zibot dimad fonvovo umdih abe junhieba wigwom bocefku tu dokusof rok jejro wifaz ite. Refgeha taok ge nef jevocmon wear we ofeazi fiho zu nico sare gihaz subgulej guddop hitfok. Rajdi suuhat kiwho vaif oguuca olcohe wa gihmamzed ica ru lomefi ikwuuro wewit. Nal bes jodo paspe kemujse elma kohi komuwah ja wijfutora nip ersu pinoh. Nifsirkij pireru rib caw egdod ja ilirah taowroj vivto cacul kikin zuliham bop. Vo fohnu futhataf ni tenube bitte subpum gabev finbulhi fistoced zi dereguk riugdeg is bacujal ha sucvis."
+  },
+  "apiKey": "b7c67f54fa58959e419a0d29843670c0753b9585570185ee8d93c3f0c7e29085",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
