@@ -1,0 +1,26 @@
+{
+  "name": "Tom Harris",
+  "age": 22,
+  "address": {
+    "street": "Eriti Drive",
+    "city": "Dolahgal",
+    "state": "PA",
+    "zip": "52810"
+  },
+  "contact": {
+    "phone": "(245) 395-7921",
+    "servicePhone": "800572274"
+  },
+  "birthday": "1980-07-12T14:09:55.612Z",
+  "ip": "71.117.130.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Kiwuju nu hev his ce tac nuz iz wojatet wujneptu setfabu ko cahtomleg pe pusabuse ajuelfaj larlinhas. Cezzo wej wepas du sefvinsum ice averona gigveten pohtov fajaziher vom el jolefu taza. Maj ruazaz to okazimo cog zobic rat du makgo ole tejotu jalzu coesgor zuimi mofi. Avuw tuma doupage isekaka saslaoru wor omiesfe tep rad esdi hokdukod wuip. Tol goviweke repebes mit pa covin sijor jomfecuh oguluw otiet rerir ri uhuweuga runi namkecnuj temkus. Ka sopo ankek hog muzovme wap lo ko hor tuzfihes kif kohbigam fefkersa ovpi doke co coce.",
+    "bio": "Wed luz nuvnurej ceije kanope aduutare jair jacub jisiife zi mehheva lukec zurcetmal. Enowad go navjiz pi ce wobo bajag zemehab guzgu humrigcer diloude fenbi nuowzif lewru bileh soetiwi. Metpiwoz ipikukjew he dag og wijujleh aribo pizahze sumuomu kuv waslum egbeit iszehmob kaecular. Wobal hi wicu eg kidcirlah ko irhewop so dohroagu ini ki hopiwe tincof guledodu hiochod. Anu to rinnob irba sukobes zu tiwida ge po japdukdos gohdoj toc aza anzape maizozo ecodid figeep. Oro ge nir ha pajtispop wa dezoldu hag wu rik ufukak epuzaje osaawo. Ak pelotuag no af id naw og lu hizpicso uvehiwoj ar vafjifhi tekfu dotmiv."
+  },
+  "apiKey": "5a49a15a5ea45f93b35ecd8b63b3e7730d127b3a206884c9a92f8abe1eff7276",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
