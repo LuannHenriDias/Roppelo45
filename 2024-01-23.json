@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Barrett",
+  "age": 43,
+  "address": {
+    "street": "Miud Glen",
+    "city": "Haloho",
+    "state": "MA",
+    "zip": "73746"
+  },
+  "contact": {
+    "phone": "(812) 604-1918",
+    "servicePhone": "800849721"
+  },
+  "birthday": "1969-07-17T16:22:54.561Z",
+  "ip": "40.30.95.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Woz ruhaksu mi vaj emezap kelcek uwiruiw nopib niv taw codas cerapefav digice rilul ve. Ilorufer movluwule zaat romavsuw zofabje emugumo mate giojoca kubibe nudze zidgid tegso. Unebe zi junva sinuhpo loimaga kemieju berepepu pizonimot lasov vuje toow tehburaf ta bazlas.",
+    "bio": "Mif juuseli cabpog ni ihoci ha dopesoc sajfuabe git nuw iguip valowiv vu kasa oto. Sofupza miuco arezesze hewhemov dunece ussum dazvij hi okemiosa olede reru latki za wanan. Romsaget opkolheb rulhiwmi sadfumoc lakruczo damiwicil uwu peufu div cijzik jojeze elnac lirufopag. Binfakof nem ij litizcez iluris hi niw lulmiv gaupju gawokor rowfosik mohkowed uli pafva ke dunjid etgib. Borku vahijuw uv zuni zom goifofam aw bewmog ovevoom ja nin tagmac niremvi jitle. Buhuknaw vapca wanmiwzo rednib muhevro jobget agiipof rib ib oru tetpuc donbunho rep tozubuib vacu molo usuhig."
+  },
+  "apiKey": "da69be80affc060ae20d22a1d95a2fed511e942a406b1b1c52d188af6bf7fa26",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
