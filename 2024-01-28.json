@@ -1,0 +1,26 @@
+{
+  "name": "Lillie Rice",
+  "age": 53,
+  "address": {
+    "street": "Setfo Ridge",
+    "city": "Viguse",
+    "state": "ND",
+    "zip": "35448"
+  },
+  "contact": {
+    "phone": "(283) 362-4398",
+    "servicePhone": "800481252"
+  },
+  "birthday": "1993-09-30T00:32:45.300Z",
+  "ip": "100.184.182.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Kat ki towvel wuh ge uta fador ridefi duvokon ret gaz tugi liahodis. Oz uzisuwu kuwba jefeze jed cicup olmop ro burusi wa su gu zalba. Liceh bidwu mor efurug rok lueho tavis cof uwepug kijec vakagpec amiuboijo pim wuz gutwizam poguhdib cid gi.",
+    "bio": "Ufiel sebgos wi zimdov okicuj vor focdeznig mudnatkok siulzoz ow su suiz urwihru. Dawah lisebre mepaga rimevu lefba kat wu pa kimnefe mawa wikbos fafku kepgagor bit ocewa. Ocdi cihonzad oka pe ukomu ru kibaplud kopolobec roob gut tumfuwob eromi of ezletpe. Ba kocossi mienago ropaiwa pavleedo rebrof lippimfo pul pa na wijozo webimge sadicolo wip. Dobowa zuwnag nuvna hu sowal afuwotde nutowipe foatauw de nukca vos voj vekipac ofi. Eh siv basal mahisira apufan emo pop awoh huvnul ojunakew ti turol sitni dadas. Zihi cirvaki muewcut rummujse roci ove ke fiw ogico irawu ehe sattur vev izibaw mubwohsa wulba wim."
+  },
+  "apiKey": "d7204fe7f45eeeee0267a4af739dd7ed0130a690bcce7abe06cf7249eed60e29",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
