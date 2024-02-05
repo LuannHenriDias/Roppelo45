@@ -1,0 +1,26 @@
+{
+  "name": "Jane Smith",
+  "age": 20,
+  "address": {
+    "street": "Lono Court",
+    "city": "Zemobco",
+    "state": "IA",
+    "zip": "36814"
+  },
+  "contact": {
+    "phone": "(369) 363-9437",
+    "servicePhone": "800795377"
+  },
+  "birthday": "1968-09-14T10:52:09.048Z",
+  "ip": "167.132.22.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Naj nevadwig tattonag zel ti ze ufa edbewew tuwoc savunefa ocpit ze kecal osneaco rig liob. Sijcuv he mod wujfec fekij muvfum hiew avael tah mo rad ita. Iju kuzitses sef zuwa hurrejkoc lahip mawfucozo zulhov we remaup iza wowcuha firkic sag ofusipoz cejuhi apjaejo. Todnaacu nezpad alfi jo ridohdok ke hug enmergo owmuzlos iji opumi nebze ritu goz ejwozte defrunu car. De zebfe le rosol ilapugfu legsin kifibal ditof giffec cibav wemmulum ofotazje. Mebdaknus nihgufwe fucpuva fopovkum enu geni lijernem at hudin az repu bijte lak pamlih. Gahzudom zid buzabsi batpulup evge ji oco wetig bop dihvo fultup ehkuci jejindim ke ocgefsiw dep sukudcez ehze.",
+    "bio": "Gevra gugo cosa sul mupedre en retuki dadopogo woejbam woraja miruvo kafiv bew samekega vi wukse. Uf edoafsi pemfo te wivimu mudogcu tarasca no utu je wejawo nesla. Nip fetusvi asukahosu ponefaol cuzvumuce cede ipuben vebvolaw ovivitma ciwgowzig vunuctub ewesa."
+  },
+  "apiKey": "58b80f3db929aff658969e0fc5dee7ec8e9e9596329ff47ebc1c6797cc6381b7",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
