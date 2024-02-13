@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Potter",
+  "age": 50,
+  "address": {
+    "street": "Obec Street",
+    "city": "Vivzocavo",
+    "state": "WI",
+    "zip": "26163"
+  },
+  "contact": {
+    "phone": "(288) 217-6011",
+    "servicePhone": "800996238"
+  },
+  "birthday": "1997-05-05T03:39:34.593Z",
+  "ip": "21.136.35.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Cufben hu zupe ro nad beswipmon subo ow adu jewvila miki emoultiw zoj vobuso nepvi. Levedwen zeb witag vuh dinob gu budjatec jiha avemebwa obwib dacmik ol wafi daloha dalo ujlofi. Usno borib kutewli nospewuk jimjum ra imizigcuz sepge jom linivpu kocmab rinikla ogpus. Adaiwkof jan jorepbo hofiz ja tot ma peztublo urnored fudef wibo ivezegdov de zasibru. Gaftuce luwkujew hifnucezu cak lewo bewlef gu wete coij ot husrifno salvuv ci ze gobpum ponud zoh. Vitutzu rup cihlivel jeksan amitihhil mofu icdo obalo pufco luohdul vufgu raci.",
+    "bio": "Udvumuno fahiabe feshavpef ro almoik da hallo osa wauf tivi ji wuchemogo wi olavudha zovba wokas lifmud juzuzer. Jes uci baf mu rizzegle gam fuida wem ni woeknih pissi ewadebme. Liopoki erjajlac utdohsis foze pawfadpu kukotre iksafab pik mepawbo zuzbev ne lohzan nizceh lofa irigavfol. Kewne aj solnu jo fa kib losbasir ginfeem ifkivfo duerka winhi lumfugkuh wehuk. Luggak vis si mehmoov kupihotud vieciow kot hoptovku madhi atofabu idle hurzu weuviuj vap etdanit paukriw. Rorpo badati fub vuunfif udesi beuj tovdafos torif bacjetat enewibje ho vufji ijzawgus cirodum pipwir ti. Julgudu ihavedtep gewa lena ogaiga hikvo hukuskag opumesfas pan wekow ri muz vizced ipakano amraj."
+  },
+  "apiKey": "d3afb98cc26a5065b11b80ad13f494c75c249d76f17b20de033663a7a259fa8d",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
