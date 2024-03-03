@@ -1,0 +1,26 @@
+{
+  "name": "Tom Ford",
+  "age": 35,
+  "address": {
+    "street": "Zepit Park",
+    "city": "Cesezeca",
+    "state": "NV",
+    "zip": "71551"
+  },
+  "contact": {
+    "phone": "(547) 247-1828",
+    "servicePhone": "800276195"
+  },
+  "birthday": "1991-09-07T08:23:27.080Z",
+  "ip": "81.44.47.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Ku vev tomolma bum ko semevmez zekon te dozhadu orileis mo ikkongud jebed gon is iwe. Os dubuava ceh udikeren sisolhum be verdogeni agocoazu antabe maz naj eluuwa jahme uki loef fewobra uripozov. Jepjiag pohzos nozu ufopodhuv zuz ekaugekid enevufevi usuju oc pas topdaccuc zabco zumagtuw fepgufluv erpicuv. Rupotih tisjecumo lalihi zajle ufpo ajeham paagi sifukov ziwju su tobzun okuvaj catuk darima kovuk ucgejisa. Nis te ci rincow pofli burat pep ciwetcub buda daclaj wuljebu oce filpak novez lepwucus wakek. Zed ra ozeebitub obme bodoluf vebo luonaubu gapan woso maibjo bu vu cewa uveecame. Kaeje tewa jomhuj tep cupmeg benohmi itlig juv wahoru bizjufeh kozgeb ku idsivfa bu.",
+    "bio": "Kof areip si vibo miwguwri hokno awzu lijaveeg olgojva aleah doiz nug. Gipfak vaiz eb wata essojec kopce ko sorciz ocafi rec seliduvi widot wetnokuji rasuce gu hif inocamzic. Matjod weh mezgin efaovsop ibuj ojgih fedru gewselmet je titcasu zarorwid tupvucu ked jab bojgor. Vebepeh jaza homzivgin wohjosdop suh jirgerdu akuneswe mub ja harcodaca rapal dobittol siko. Lado ju gicuto buwij hijet ma jarowi ju rumpi gak pikamje leki doctanu. Ad lehahov hel sedav savragum zipdudto nurvemna lom tu jo hegjo go lev ruh coten."
+  },
+  "apiKey": "f082233849099c171abab003df5ca870812307d75ba9b309cfdd6d17cbd4366a",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
