@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Butler",
+  "age": 20,
+  "address": {
+    "street": "Boha Terrace",
+    "city": "Leiwwiv",
+    "state": "NH",
+    "zip": "21213"
+  },
+  "contact": {
+    "phone": "(640) 797-6551",
+    "servicePhone": "800725191"
+  },
+  "birthday": "2000-11-17T23:33:37.797Z",
+  "ip": "190.157.195.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuki sa po pirtav wotoma epobut darsu hu pehoke isejume duju juffewem wo ji bubam zun fisi. Cethilpup tesiteg ufopu zogep wovuli okebugwej job arput wagwinu badcekem jatfuho jahho cit feb borpaeve lulteb fizija. Pigozlap ri hok fud led reuc ojemu ir deejo takreswob cep de. Madni nomi alotijiba rugoh ufwefu noshoog ovhuado lud je epoimifu gofzili afacal efeudu. Tolija ude mivi gip fi vimwulgif rusrinas ev fojbohmo sutpu dedwodfuk pu fu awi.",
+    "bio": "Zuho mo tatfahima va satcunvaz lehaibu izi as zavapori susar cemoladuz dengij tibsali nen uvimaz iresew. Zebigo dajawko mendega emjo ammov wedefwe sabas do hudbegmo ler ki rorna pozdovag zi. Jinana zinsabod vuscu guas ucunubto bum faloc awe locwurah wikad vi inrabeta bodraoha munpor ceehu."
+  },
+  "apiKey": "f63b00e5f360f21b9b526dcc2ea09984e93a015ca0f4090314d45069db7a4617",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
