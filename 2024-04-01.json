@@ -1,0 +1,26 @@
+{
+  "name": "Noah Hicks",
+  "age": 38,
+  "address": {
+    "street": "Ezaf Key",
+    "city": "Tijusid",
+    "state": "DC",
+    "zip": "45579"
+  },
+  "contact": {
+    "phone": "(670) 714-1209",
+    "servicePhone": "800299267"
+  },
+  "birthday": "1978-01-27T16:41:19.099Z",
+  "ip": "161.25.57.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Ol luw afela udemoz wit go em ahlebwu sewiam wedogaw caslefjo wi gu gotose. Soz nuvwil etvifiw avre lalicku wito koba wannazla ot po aden lin zadog. Givki lemcopin feogaevo enisel obsa ala hugiztoh os wisomeb kebfin azpuza ufelezu fuvoodi le eloub. En kiguvi vohivse bu egehaasu suwec le jov wuro deruv ziz ofure buku wausnu woib.",
+    "bio": "Je hautisi ciuzete tejevevi isobakufe mu ir da rat mali ugeivpe owhi kuem muri ninopu. Hezmuje uf ga atejapuro pimeza reheg werasaj an cegenti nu tepegvim movagad mop lalbez wali lak. Cuta od rul nekoj pohzolger lovuta ses vujtu ros tu efalonah vudfelwen codtete wiga behnifug refob ehbunjav wa. Pog fej jinadi sinun gak hifzu jizfar duhica ce ow so asgiv vuci. Enafu nu rib jikced zitic jetunfo wiiv wah ale ba pifziv de fagijuk jepamki mi nice tuw. Atomovako ha ohwokawu moga sagbaoru pawuk esecab ocacohwi tizefo fizja isehat ga kif soh vovofzim ilijasher ozobig suivu."
+  },
+  "apiKey": "55b4337c5df8e60cba2d833d7906458ecde56d16b4ba9859c0fbd121fcf6a0b0",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
