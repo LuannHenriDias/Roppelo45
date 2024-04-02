@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Castillo",
+  "age": 39,
+  "address": {
+    "street": "Ippi Ridge",
+    "city": "Itzerbu",
+    "state": "MI",
+    "zip": "91991"
+  },
+  "contact": {
+    "phone": "(432) 276-8165",
+    "servicePhone": "800426325"
+  },
+  "birthday": "1977-09-09T12:11:24.644Z",
+  "ip": "14.103.27.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohiku ik hoh mupo pulsug kaotkap peka wa palofan fivvuug ahma sarluz ra fu ho zacag. Egca bi po ravac uke peger vuhef decivamuw relhadkit ib picaw mag nalkukkof lecoksi om ubogu jijdero osugub. Zitece katboh vokehka ne kototo bulihor ze la vedor biv gi opagodsiz iduwucu iheal ji migeona ebgefho.",
+    "bio": "Kakiw ig fafej ku ca sep korgek kafe il zih liani iklif hor ra. Gi vihib zuumhav seadu pauwa romi sulu wu ordur tewna luf efoeko nehuvjak kiro. Bejmi ica dil cafu opelo nevde gu wewajsi po de wohukizop gibeg veitiduc na sater. Biku balnufre cope daj wigubed sizubwir oja voseno ebguhca pitovfu jiubo aze iguino puv butimuva zupuja pocsu."
+  },
+  "apiKey": "2800931fb5cd45d409744ed7e6c7483ddd1d01eff73da6ed92cc3ead265c8320",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
