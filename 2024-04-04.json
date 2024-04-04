@@ -1,0 +1,26 @@
+{
+  "name": "Jennie Mann",
+  "age": 53,
+  "address": {
+    "street": "Geddu Turnpike",
+    "city": "Dibrula",
+    "state": "FL",
+    "zip": "99621"
+  },
+  "contact": {
+    "phone": "(335) 596-3929",
+    "servicePhone": "800913138"
+  },
+  "birthday": "1986-01-31T18:02:01.210Z",
+  "ip": "39.195.225.123",
+  "foo": "bar",
+  "profile": {
+    "about": "If zerlowos nemirejuf uvesefim kosva sawucsec fafif bu lecfi wo hev vihesoju ojluh nabaje pavwut sipca. Ug sadavu roofajud husog gi ziw ru uzovolzed ojiwa haj hasjuvor moda. Ninos le jik rifvom najfe ifeiwivi he ku zo hok kooknak buveip lios tuf gof hisu. Raazi wopesta usuatced kewas higsicod le okoura riffuf to zosajuh wael zab caaketa tepi duri rinsegku.",
+    "bio": "Cosofidus emrivib lek woh mah unru sukizlag furaj zuziv puniko rajusve futwob mi. Go cutpov kius tuoz pisfodkut zu viwik nodmiwhak kuzfojo ja votacez fetwelep ven tivug. Daunecod nofcioj wasoj gawawi ota weno oba nupan sidte ekhef vimfin iwe kotlisa noclovoj lo se po."
+  },
+  "apiKey": "63b4b9173aa24f0bf30ff06e667dfbdeaaa8bd7bd1c3b99c1c0e09da015cb31c",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
